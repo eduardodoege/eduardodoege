@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @eduardodoege
-- 👀 I’m interested in Computer Science;
-- 🌱 I’m currently learning Cyber-Security;
-- 💞️ I’m looking to collaborate on Open Source Projects;
-- 📫 How to reach me Socials;
-- 😄 Pronouns: He/Him;
 - ⚡ "Simple is better than complex."
 
 <!---
